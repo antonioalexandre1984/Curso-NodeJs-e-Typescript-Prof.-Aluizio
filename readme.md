@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://aluiziodeveloper.com.br/">
-    <img alt="Aluizio Developer" src="https://aluiziodeveloper.com.br/assets/img/icon.png" width="200" />
-  </a>
+  
 </p>
 <h2 align="center">
 Informação sobre tecnologia, dicas, tutoriais, mini-cursos e muito mais.
 </h2>
+
+## Aulas ministradas pelo professor Aluizio pelo app Youtube.
 
 ## Mini Curso Gratuito - Criação de API Restful com Node.js e Typescript
 
@@ -61,10 +61,4 @@ Após essa instalação execute a aplicação com o comando `npm run dev`. Acess
 
 ## Redes Sociais
 
-[Site Aluizio Developer](https://aluiziodeveloper.com.br)
-
-[YouTube](https://www.youtube.com/jorgealuizio)
-
-[Servidor no Discord](https://discord.gg/3J87BMz5fD)
-
-[LinkedIn](https://www.linkedin.com/in/jorgealuizio/)
+[LinkedIn] https://www.linkedin.com/in/antonio-alexandre-cordeiro-santos-436a2020/
